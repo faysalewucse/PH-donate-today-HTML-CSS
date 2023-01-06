@@ -73,3 +73,73 @@ button{
    text-align: center;
    padding: 10px;
 }
+
+/* donate plan section */
+.donate-plan {
+    padding:100px;
+}
+
+.donate-plan h1{
+    text-align: center;
+    font-size: 45px;
+}
+
+.title {
+    text-align: center;
+    margin: 30px 0px;
+}
+
+.donate-plan .cards{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
+
+.donate-plan .cards .card{
+    padding: 100px 50px;
+    text-align: left;
+    width: 360px;
+    height: 250px;
+    border-radius: 5px;
+}
+
+.donate-plan .cards .card p{
+    font-size: 18px;
+}
+.donate-plan .cards .card h1{
+    font-weight: 600;
+    text-align: left;
+    font-size: 28px;
+    margin: 20px 0;
+}
+
+.bg-sky{
+    background-color: #4F9DA638;
+}
+.bg-red{
+    background-color: #ff595938;
+}
+.bg-yellow{
+    background-color: #FFF4D6
+}
+
+/* Third Section */
+.third-section{
+    display: flex;
+    justify-content: space-between;
+    padding: 100px 200px;
+    gap: 50px;
+}
+.third-section h1{
+    text-align: left;
+}
+
+.third-section p{
+    font-size: 18px;
+    margin: 20px 0;
+}
+
+.third-section img{
+    height: 400px;
+    border-radius: 5px;
+}
