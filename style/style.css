@@ -143,3 +143,61 @@ button{
     height: 400px;
     border-radius: 5px;
 }
+
+/* my update section */
+/* Amount Section */
+.my-update {
+    text-align: center;
+    padding: 100px;
+}
+
+.my-update h1 {
+    font-size: 45px;
+}
+
+.my-update p {
+    margin: 20px 0 40px 0;
+}
+
+.my-update form{
+    background-color: wheat;
+    padding: 80px 50px;
+    width: 60%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+.my-update input{
+    padding: 15px;
+    background-color: #D9D9D9;
+    border: none;
+    margin: 0;
+    border-radius: 5px 0 0 5px;
+}
+
+.my-update button{
+    padding: 15px;
+    display: inline;
+    border-radius: 0 5px 5px 0;
+    margin: 0;
+    background-color: #FF5959;
+    color: white;
+}
+
+/* Footer Section */
+footer{
+    background-color: #0B0D17;
+    text-align: center;
+    padding: 60px;
+}
+
+footer h1{
+    color: #FF5959;
+    font-family: 'Lobster', cursive;
+    margin-bottom: 20px;
+}
+
+footer h3 {
+    color: #707070;
+    font-family: 'Manrope', sans-serif;
+}
